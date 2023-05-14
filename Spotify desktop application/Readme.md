@@ -1,1 +1,1 @@
-
+Here is an automation script for testing and exploring the basics of the Spotify desktop version. Eventhough this is not a full 100% test, it serves to test the basic functions people use on their PCs for this application.
